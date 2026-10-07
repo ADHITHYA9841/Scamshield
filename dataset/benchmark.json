@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "SCAM_KYC_001",
+    "input": "Dear Customer, Your SBI account KYC has expired. Update immediately to prevent account suspension: http://sbi-kyc-update.xyz/login",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "KYC Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_KYC_002",
+    "input": "Urgent: Your HDFC Bank netbanking is blocked due to pending PAN update. Click here to verify OTP: http://hdfc-pan-verify.top",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "KYC Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_KYC_003",
+    "input": "உங்கள் பாரத ஸ்டேட் வங்கி கணக்கு KYC முடிவடைந்தது. உடனே இந்த இணைப்பை கிளிக் செய்து OTP பகிரவும்.",
+    "input_type": "text",
+    "language": "ta",
+    "label": "scam",
+    "scam_type": "KYC Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_KYC_004",
+    "input": "प्रिय ग्राहक, आपका बैंक खाता आज बंद हो जाएगा। तुरंत अपना पैन कार्ड और ओटीपी दर्ज करें: http://bank-update.click",
+    "input_type": "text",
+    "language": "hi",
+    "label": "scam",
+    "scam_type": "KYC Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_KYC_005",
+    "input": "Your KYC expire aagum within 24 hours. Udane click panni OTP share pannunga.",
+    "input_type": "text",
+    "language": "mixed",
+    "label": "scam",
+    "scam_type": "KYC Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_KYC_006",
+    "input": "Aapka bank account freeze ho jayega. Turant KYC update kare aur OTP bataye.",
+    "input_type": "text",
+    "language": "mixed",
+    "label": "scam",
+    "scam_type": "KYC Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_KYC_007",
+    "input": "SIM card KYC incomplete. Telecom Department will deactivate your mobile number within 2 hours. Call 9876543210 immediately.",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "KYC Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_KYC_008",
+    "input": "Aadhaar-PAN linking deadline today. Pay Rs 500 penalty and enter your card details: http://pan-aadhaar-link.top",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "KYC Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_KYC_009",
+    "input": "ICICI Alert: Your credit card is temporarily restricted. Submit your CVV and OTP to restore access.",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "KYC Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_KYC_010",
+    "input": "Warning: Bank account audit failed. Send your 6 digit UPI PIN to verify account ownership.",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "KYC Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_KYC_011",
+    "input": "Dear Customer, Your SBI account KYC has expired. Update immediately to prevent account suspension: http://sbi-kyc-update.xyz/login (Ref #1144)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "KYC Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_KYC_012",
+    "input": "Urgent: Your HDFC Bank netbanking is blocked due to pending PAN update. Click here to verify OTP: http://hdfc-pan-verify.top (Ref #1248)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "KYC Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_KYC_013",
+    "input": "உங்கள் பாரத ஸ்டேட் வங்கி கணக்கு KYC முடிவடைந்தது. உடனே இந்த இணைப்பை கிளிக் செய்து OTP பகிரவும். (Ref #1352)",
+    "input_type": "text",
+    "language": "ta",
+    "label": "scam",
+    "scam_type": "KYC Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_KYC_014",
+    "input": "प्रिय ग्राहक, आपका बैंक खाता आज बंद हो जाएगा। तुरंत अपना पैन कार्ड और ओटीपी दर्ज करें: http://bank-update.click (Ref #1456)",
+    "input_type": "text",
+    "language": "hi",
+    "label": "scam",
+    "scam_type": "KYC Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_KYC_015",
+    "input": "Your KYC expire aagum within 24 hours. Udane click panni OTP share pannunga. (Ref #1560)",
+    "input_type": "text",
+    "language": "mixed",
+    "label": "scam",
+    "scam_type": "KYC Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_KYC_016",
+    "input": "Aapka bank account freeze ho jayega. Turant KYC update kare aur OTP bataye. (Ref #1664)",
+    "input_type": "text",
+    "language": "mixed",
+    "label": "scam",
+    "scam_type": "KYC Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_KYC_017",
+    "input": "SIM card KYC incomplete. Telecom Department will deactivate your mobile number within 2 hours. Call 9876543210 immediately. (Ref #1768)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "KYC Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_KYC_018",
+    "input": "Aadhaar-PAN linking deadline today. Pay Rs 500 penalty and enter your card details: http://pan-aadhaar-link.top (Ref #1872)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "KYC Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_KYC_019",
+    "input": "ICICI Alert: Your credit card is temporarily restricted. Submit your CVV and OTP to restore access. (Ref #1976)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "KYC Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_KYC_020",
+    "input": "Warning: Bank account audit failed. Send your 6 digit UPI PIN to verify account ownership. (Ref #2080)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "KYC Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_KYC_021",
+    "input": "Dear Customer, Your SBI account KYC has expired. Update immediately to prevent account suspension: http://sbi-kyc-update.xyz/login (Ref #2184)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "KYC Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_KYC_022",
+    "input": "Urgent: Your HDFC Bank netbanking is blocked due to pending PAN update. Click here to verify OTP: http://hdfc-pan-verify.top (Ref #2288)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "KYC Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_KYC_023",
+    "input": "உங்கள் பாரத ஸ்டேட் வங்கி கணக்கு KYC முடிவடைந்தது. உடனே இந்த இணைப்பை கிளிக் செய்து OTP பகிரவும். (Ref #2392)",
+    "input_type": "text",
+    "language": "ta",
+    "label": "scam",
+    "scam_type": "KYC Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_KYC_024",
+    "input": "प्रिय ग्राहक, आपका बैंक खाता आज बंद हो जाएगा। तुरंत अपना पैन कार्ड और ओटीपी दर्ज करें: http://bank-update.click (Ref #2496)",
+    "input_type": "text",
+    "language": "hi",
+    "label": "scam",
+    "scam_type": "KYC Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_KYC_025",
+    "input": "Your KYC expire aagum within 24 hours. Udane click panni OTP share pannunga. (Ref #2600)",
+    "input_type": "text",
+    "language": "mixed",
+    "label": "scam",
+    "scam_type": "KYC Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_KYC_026",
+    "input": "Aapka bank account freeze ho jayega. Turant KYC update kare aur OTP bataye. (Ref #2704)",
+    "input_type": "text",
+    "language": "mixed",
+    "label": "scam",
+    "scam_type": "KYC Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_KYC_027",
+    "input": "SIM card KYC incomplete. Telecom Department will deactivate your mobile number within 2 hours. Call 9876543210 immediately. (Ref #2808)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "KYC Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_KYC_028",
+    "input": "Aadhaar-PAN linking deadline today. Pay Rs 500 penalty and enter your card details: http://pan-aadhaar-link.top (Ref #2912)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "KYC Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_KYC_029",
+    "input": "ICICI Alert: Your credit card is temporarily restricted. Submit your CVV and OTP to restore access. (Ref #3016)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "KYC Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_KYC_030",
+    "input": "Warning: Bank account audit failed. Send your 6 digit UPI PIN to verify account ownership. (Ref #3120)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "KYC Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_KYC_031",
+    "input": "Dear Customer, Your SBI account KYC has expired. Update immediately to prevent account suspension: http://sbi-kyc-update.xyz/login (Ref #3224)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "KYC Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_KYC_032",
+    "input": "Urgent: Your HDFC Bank netbanking is blocked due to pending PAN update. Click here to verify OTP: http://hdfc-pan-verify.top (Ref #3328)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "KYC Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_KYC_033",
+    "input": "உங்கள் பாரத ஸ்டேட் வங்கி கணக்கு KYC முடிவடைந்தது. உடனே இந்த இணைப்பை கிளிக் செய்து OTP பகிரவும். (Ref #3432)",
+    "input_type": "text",
+    "language": "ta",
+    "label": "scam",
+    "scam_type": "KYC Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_KYC_034",
+    "input": "प्रिय ग्राहक, आपका बैंक खाता आज बंद हो जाएगा। तुरंत अपना पैन कार्ड और ओटीपी दर्ज करें: http://bank-update.click (Ref #3536)",
+    "input_type": "text",
+    "language": "hi",
+    "label": "scam",
+    "scam_type": "KYC Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_KYC_035",
+    "input": "Your KYC expire aagum within 24 hours. Udane click panni OTP share pannunga. (Ref #3640)",
+    "input_type": "text",
+    "language": "mixed",
+    "label": "scam",
+    "scam_type": "KYC Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_KYC_036",
+    "input": "Aapka bank account freeze ho jayega. Turant KYC update kare aur OTP bataye. (Ref #3744)",
+    "input_type": "text",
+    "language": "mixed",
+    "label": "scam",
+    "scam_type": "KYC Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_KYC_037",
+    "input": "SIM card KYC incomplete. Telecom Department will deactivate your mobile number within 2 hours. Call 9876543210 immediately. (Ref #3848)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "KYC Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_KYC_038",
+    "input": "Aadhaar-PAN linking deadline today. Pay Rs 500 penalty and enter your card details: http://pan-aadhaar-link.top (Ref #3952)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "KYC Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_KYC_039",
+    "input": "ICICI Alert: Your credit card is temporarily restricted. Submit your CVV and OTP to restore access. (Ref #4056)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "KYC Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_KYC_040",
+    "input": "Warning: Bank account audit failed. Send your 6 digit UPI PIN to verify account ownership. (Ref #4160)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "KYC Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_KYC_041",
+    "input": "Dear Customer, Your SBI account KYC has expired. Update immediately to prevent account suspension: http://sbi-kyc-update.xyz/login (Ref #4264)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "KYC Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_KYC_042",
+    "input": "Urgent: Your HDFC Bank netbanking is blocked due to pending PAN update. Click here to verify OTP: http://hdfc-pan-verify.top (Ref #4368)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "KYC Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_KYC_043",
+    "input": "உங்கள் பாரத ஸ்டேட் வங்கி கணக்கு KYC முடிவடைந்தது. உடனே இந்த இணைப்பை கிளிக் செய்து OTP பகிரவும். (Ref #4472)",
+    "input_type": "text",
+    "language": "ta",
+    "label": "scam",
+    "scam_type": "KYC Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_KYC_044",
+    "input": "प्रिय ग्राहक, आपका बैंक खाता आज बंद हो जाएगा। तुरंत अपना पैन कार्ड और ओटीपी दर्ज करें: http://bank-update.click (Ref #4576)",
+    "input_type": "text",
+    "language": "hi",
+    "label": "scam",
+    "scam_type": "KYC Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_KYC_045",
+    "input": "Your KYC expire aagum within 24 hours. Udane click panni OTP share pannunga. (Ref #4680)",
+    "input_type": "text",
+    "language": "mixed",
+    "label": "scam",
+    "scam_type": "KYC Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_KYC_046",
+    "input": "Aapka bank account freeze ho jayega. Turant KYC update kare aur OTP bataye. (Ref #4784)",
+    "input_type": "text",
+    "language": "mixed",
+    "label": "scam",
+    "scam_type": "KYC Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_KYC_047",
+    "input": "SIM card KYC incomplete. Telecom Department will deactivate your mobile number within 2 hours. Call 9876543210 immediately. (Ref #4888)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "KYC Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_KYC_048",
+    "input": "Aadhaar-PAN linking deadline today. Pay Rs 500 penalty and enter your card details: http://pan-aadhaar-link.top (Ref #4992)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "KYC Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_KYC_049",
+    "input": "ICICI Alert: Your credit card is temporarily restricted. Submit your CVV and OTP to restore access. (Ref #5096)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "KYC Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_KYC_050",
+    "input": "Warning: Bank account audit failed. Send your 6 digit UPI PIN to verify account ownership. (Ref #5200)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "KYC Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_UPI_051",
+    "input": "upi://pay?pa=refund-agent@ybl&pn=SBI+Refund&am=5000&tn=Scan+and+enter+PIN+to+receive+Rs+5000+cashback",
+    "input_type": "qr",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "UPI Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_UPI_052",
+    "input": "You have won Rs 25,000 lottery from PhonePe! Scan this QR code and type your UPI PIN to claim money.",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "UPI Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_UPI_053",
+    "input": "Google Pay Scratch Card: Rs 4,999 credited to your wallet. Click to accept and enter MPIN: http://gpay-reward.xyz",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "UPI Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_UPI_054",
+    "input": "பரிசு விழுந்துள்ளது! உங்கள் வங்கிக் கணக்கில் ரூ 10000 பெற QR குறியீட்டை ஸ்கேன் செய்து பின் எண்ணை உள்ளிடவும்.",
+    "input_type": "text",
+    "language": "ta",
+    "label": "scam",
+    "scam_type": "UPI Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_UPI_055",
+    "input": "बधाई हो! आपको 15,000 रुपये का कैशबैक मिला है। तुरंत प्राप्त करने के लिए अपना यूपीआई पिन दर्ज करें।",
+    "input_type": "text",
+    "language": "hi",
+    "label": "scam",
+    "scam_type": "UPI Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_UPI_056",
+    "input": "Congratulations! You won KBC Kaun Banega Crorepati lucky draw of 25 Lakhs. Pay processing fee of Rs 2500 to release cheque.",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "UPI Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_UPI_057",
+    "input": "OLX Buyer: I have sent advance payment of Rs 12,000 via QR code. Just scan it and approve transaction to receive funds.",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "UPI Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_UPI_058",
+    "input": "Aapko 5000 cash prize mila hai. Udane paise receive karne ke liye UPI PIN enter kare.",
+    "input_type": "text",
+    "language": "mixed",
+    "label": "scam",
+    "scam_type": "UPI Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_UPI_059",
+    "input": "upi://pay?pa=electricity-care@paytm&pn=Bijli+Office&am=1890&tn=Disconnection+fine+pay+now",
+    "input_type": "qr",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "UPI Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_UPI_060",
+    "input": "Payment failed. Transfer Rs 10 verification charge to activate your pending loan disbursement.",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "UPI Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_UPI_061",
+    "input": "upi://pay?pa=refund-agent@ybl&pn=SBI+Refund&am=5000&tn=Scan+and+enter+PIN+to+receive+Rs+5000+cashback (TrxID: 4331)",
+    "input_type": "qr",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "UPI Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_UPI_062",
+    "input": "You have won Rs 25,000 lottery from PhonePe! Scan this QR code and type your UPI PIN to claim money. (TrxID: 4402)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "UPI Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_UPI_063",
+    "input": "Google Pay Scratch Card: Rs 4,999 credited to your wallet. Click to accept and enter MPIN: http://gpay-reward.xyz (TrxID: 4473)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "UPI Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_UPI_064",
+    "input": "பரிசு விழுந்துள்ளது! உங்கள் வங்கிக் கணக்கில் ரூ 10000 பெற QR குறியீட்டை ஸ்கேன் செய்து பின் எண்ணை உள்ளிடவும். (TrxID: 4544)",
+    "input_type": "text",
+    "language": "ta",
+    "label": "scam",
+    "scam_type": "UPI Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_UPI_065",
+    "input": "बधाई हो! आपको 15,000 रुपये का कैशबैक मिला है। तुरंत प्राप्त करने के लिए अपना यूपीआई पिन दर्ज करें। (TrxID: 4615)",
+    "input_type": "text",
+    "language": "hi",
+    "label": "scam",
+    "scam_type": "UPI Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_UPI_066",
+    "input": "Congratulations! You won KBC Kaun Banega Crorepati lucky draw of 25 Lakhs. Pay processing fee of Rs 2500 to release cheque. (TrxID: 4686)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "UPI Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_UPI_067",
+    "input": "OLX Buyer: I have sent advance payment of Rs 12,000 via QR code. Just scan it and approve transaction to receive funds. (TrxID: 4757)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "UPI Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_UPI_068",
+    "input": "Aapko 5000 cash prize mila hai. Udane paise receive karne ke liye UPI PIN enter kare. (TrxID: 4828)",
+    "input_type": "text",
+    "language": "mixed",
+    "label": "scam",
+    "scam_type": "UPI Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_UPI_069",
+    "input": "upi://pay?pa=electricity-care@paytm&pn=Bijli+Office&am=1890&tn=Disconnection+fine+pay+now (TrxID: 4899)",
+    "input_type": "qr",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "UPI Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_UPI_070",
+    "input": "Payment failed. Transfer Rs 10 verification charge to activate your pending loan disbursement. (TrxID: 4970)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "UPI Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_UPI_071",
+    "input": "upi://pay?pa=refund-agent@ybl&pn=SBI+Refund&am=5000&tn=Scan+and+enter+PIN+to+receive+Rs+5000+cashback (TrxID: 5041)",
+    "input_type": "qr",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "UPI Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_UPI_072",
+    "input": "You have won Rs 25,000 lottery from PhonePe! Scan this QR code and type your UPI PIN to claim money. (TrxID: 5112)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "UPI Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_UPI_073",
+    "input": "Google Pay Scratch Card: Rs 4,999 credited to your wallet. Click to accept and enter MPIN: http://gpay-reward.xyz (TrxID: 5183)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "UPI Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_UPI_074",
+    "input": "பரிசு விழுந்துள்ளது! உங்கள் வங்கிக் கணக்கில் ரூ 10000 பெற QR குறியீட்டை ஸ்கேன் செய்து பின் எண்ணை உள்ளிடவும். (TrxID: 5254)",
+    "input_type": "text",
+    "language": "ta",
+    "label": "scam",
+    "scam_type": "UPI Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_UPI_075",
+    "input": "बधाई हो! आपको 15,000 रुपये का कैशबैक मिला है। तुरंत प्राप्त करने के लिए अपना यूपीआई पिन दर्ज करें। (TrxID: 5325)",
+    "input_type": "text",
+    "language": "hi",
+    "label": "scam",
+    "scam_type": "UPI Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_UPI_076",
+    "input": "Congratulations! You won KBC Kaun Banega Crorepati lucky draw of 25 Lakhs. Pay processing fee of Rs 2500 to release cheque. (TrxID: 5396)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "UPI Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_UPI_077",
+    "input": "OLX Buyer: I have sent advance payment of Rs 12,000 via QR code. Just scan it and approve transaction to receive funds. (TrxID: 5467)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "UPI Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_UPI_078",
+    "input": "Aapko 5000 cash prize mila hai. Udane paise receive karne ke liye UPI PIN enter kare. (TrxID: 5538)",
+    "input_type": "text",
+    "language": "mixed",
+    "label": "scam",
+    "scam_type": "UPI Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_UPI_079",
+    "input": "upi://pay?pa=electricity-care@paytm&pn=Bijli+Office&am=1890&tn=Disconnection+fine+pay+now (TrxID: 5609)",
+    "input_type": "qr",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "UPI Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_UPI_080",
+    "input": "Payment failed. Transfer Rs 10 verification charge to activate your pending loan disbursement. (TrxID: 5680)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "UPI Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_UPI_081",
+    "input": "upi://pay?pa=refund-agent@ybl&pn=SBI+Refund&am=5000&tn=Scan+and+enter+PIN+to+receive+Rs+5000+cashback (TrxID: 5751)",
+    "input_type": "qr",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "UPI Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_UPI_082",
+    "input": "You have won Rs 25,000 lottery from PhonePe! Scan this QR code and type your UPI PIN to claim money. (TrxID: 5822)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "UPI Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_UPI_083",
+    "input": "Google Pay Scratch Card: Rs 4,999 credited to your wallet. Click to accept and enter MPIN: http://gpay-reward.xyz (TrxID: 5893)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "UPI Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_UPI_084",
+    "input": "பரிசு விழுந்துள்ளது! உங்கள் வங்கிக் கணக்கில் ரூ 10000 பெற QR குறியீட்டை ஸ்கேன் செய்து பின் எண்ணை உள்ளிடவும். (TrxID: 5964)",
+    "input_type": "text",
+    "language": "ta",
+    "label": "scam",
+    "scam_type": "UPI Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_UPI_085",
+    "input": "बधाई हो! आपको 15,000 रुपये का कैशबैक मिला है। तुरंत प्राप्त करने के लिए अपना यूपीआई पिन दर्ज करें। (TrxID: 6035)",
+    "input_type": "text",
+    "language": "hi",
+    "label": "scam",
+    "scam_type": "UPI Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_UPI_086",
+    "input": "Congratulations! You won KBC Kaun Banega Crorepati lucky draw of 25 Lakhs. Pay processing fee of Rs 2500 to release cheque. (TrxID: 6106)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "UPI Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_UPI_087",
+    "input": "OLX Buyer: I have sent advance payment of Rs 12,000 via QR code. Just scan it and approve transaction to receive funds. (TrxID: 6177)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "UPI Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_UPI_088",
+    "input": "Aapko 5000 cash prize mila hai. Udane paise receive karne ke liye UPI PIN enter kare. (TrxID: 6248)",
+    "input_type": "text",
+    "language": "mixed",
+    "label": "scam",
+    "scam_type": "UPI Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_UPI_089",
+    "input": "upi://pay?pa=electricity-care@paytm&pn=Bijli+Office&am=1890&tn=Disconnection+fine+pay+now (TrxID: 6319)",
+    "input_type": "qr",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "UPI Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_UPI_090",
+    "input": "Payment failed. Transfer Rs 10 verification charge to activate your pending loan disbursement. (TrxID: 6390)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "UPI Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_UPI_091",
+    "input": "upi://pay?pa=refund-agent@ybl&pn=SBI+Refund&am=5000&tn=Scan+and+enter+PIN+to+receive+Rs+5000+cashback (TrxID: 6461)",
+    "input_type": "qr",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "UPI Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_UPI_092",
+    "input": "You have won Rs 25,000 lottery from PhonePe! Scan this QR code and type your UPI PIN to claim money. (TrxID: 6532)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "UPI Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_UPI_093",
+    "input": "Google Pay Scratch Card: Rs 4,999 credited to your wallet. Click to accept and enter MPIN: http://gpay-reward.xyz (TrxID: 6603)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "UPI Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_UPI_094",
+    "input": "பரிசு விழுந்துள்ளது! உங்கள் வங்கிக் கணக்கில் ரூ 10000 பெற QR குறியீட்டை ஸ்கேன் செய்து பின் எண்ணை உள்ளிடவும். (TrxID: 6674)",
+    "input_type": "text",
+    "language": "ta",
+    "label": "scam",
+    "scam_type": "UPI Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_UPI_095",
+    "input": "बधाई हो! आपको 15,000 रुपये का कैशबैक मिला है। तुरंत प्राप्त करने के लिए अपना यूपीआई पिन दर्ज करें। (TrxID: 6745)",
+    "input_type": "text",
+    "language": "hi",
+    "label": "scam",
+    "scam_type": "UPI Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_UPI_096",
+    "input": "Congratulations! You won KBC Kaun Banega Crorepati lucky draw of 25 Lakhs. Pay processing fee of Rs 2500 to release cheque. (TrxID: 6816)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "UPI Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_UPI_097",
+    "input": "OLX Buyer: I have sent advance payment of Rs 12,000 via QR code. Just scan it and approve transaction to receive funds. (TrxID: 6887)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "UPI Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_UPI_098",
+    "input": "Aapko 5000 cash prize mila hai. Udane paise receive karne ke liye UPI PIN enter kare. (TrxID: 6958)",
+    "input_type": "text",
+    "language": "mixed",
+    "label": "scam",
+    "scam_type": "UPI Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_UPI_099",
+    "input": "upi://pay?pa=electricity-care@paytm&pn=Bijli+Office&am=1890&tn=Disconnection+fine+pay+now (TrxID: 7029)",
+    "input_type": "qr",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "UPI Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_UPI_100",
+    "input": "Payment failed. Transfer Rs 10 verification charge to activate your pending loan disbursement. (TrxID: 7100)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "UPI Fraud",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_DEL_101",
+    "input": "India Post: Your package could not be delivered due to incorrect street number. Update address here within 12 hours: http://indiapost-parcel.top/track",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Delivery Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_DEL_102",
+    "input": "FedEx Express: Parcel #FDX8921 on hold. Pay outstanding customs clearance fee of Rs 48. Click: http://fedex-express-customs.xyz",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Delivery Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_DEL_103",
+    "input": "DHL Courier: Urgent notice! Your international shipment has been stopped by customs. Contact inspector immediately: +923001234567",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Delivery Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_DEL_104",
+    "input": "உங்கள் அஞ்சல் பார்சல் முகவரி தவறு காரணமாக நிறுத்தப்பட்டுள்ளது. உடனே புதுப்பிக்க: http://post-tn.click",
+    "input_type": "text",
+    "language": "ta",
+    "label": "scam",
+    "scam_type": "Delivery Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_DEL_105",
+    "input": "भारतीय डाक: आपका पार्सल पते की गलती के कारण रुक गया है। आज ही पता अपडेट करें अन्यथा पार्सल वापस कर दिया जाएगा।",
+    "input_type": "text",
+    "language": "hi",
+    "label": "scam",
+    "scam_type": "Delivery Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_DEL_106",
+    "input": "Delhi Police Cyber Crime: Illegal narcotics found in courier booked under your Aadhaar. Digital arrest warrant issued. Join Skype call now.",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Delivery Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_DEL_107",
+    "input": "Amazon Delivery: Driver could not reach you. Reschedule delivery date and verify identity: http://amazon-redelivery.xyz",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Delivery Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_DEL_108",
+    "input": "BlueDart: Address validation fee of Rs 5 pending for courier consignment #BD7391. Pay now: http://bluedart-fee.top",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Delivery Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_DEL_109",
+    "input": "Parcel aana baaki hai. Address update nahi kiya toh return ho jayega. Click: http://track-pack.xyz",
+    "input_type": "text",
+    "language": "mixed",
+    "label": "scam",
+    "scam_type": "Delivery Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_DEL_110",
+    "input": "Courier service officer: Pay customs duty via UPI to avoid criminal seizure report.",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Delivery Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_DEL_111",
+    "input": "India Post: Your package could not be delivered due to incorrect street number. Update address here within 12 hours: http://indiapost-parcel.top/track (Tracking: IND3663)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Delivery Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_DEL_112",
+    "input": "FedEx Express: Parcel #FDX8921 on hold. Pay outstanding customs clearance fee of Rs 48. Click: http://fedex-express-customs.xyz (Tracking: IND3696)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Delivery Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_DEL_113",
+    "input": "DHL Courier: Urgent notice! Your international shipment has been stopped by customs. Contact inspector immediately: +923001234567 (Tracking: IND3729)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Delivery Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_DEL_114",
+    "input": "உங்கள் அஞ்சல் பார்சல் முகவரி தவறு காரணமாக நிறுத்தப்பட்டுள்ளது. உடனே புதுப்பிக்க: http://post-tn.click (Tracking: IND3762)",
+    "input_type": "text",
+    "language": "ta",
+    "label": "scam",
+    "scam_type": "Delivery Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_DEL_115",
+    "input": "भारतीय डाक: आपका पार्सल पते की गलती के कारण रुक गया है। आज ही पता अपडेट करें अन्यथा पार्सल वापस कर दिया जाएगा। (Tracking: IND3795)",
+    "input_type": "text",
+    "language": "hi",
+    "label": "scam",
+    "scam_type": "Delivery Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_DEL_116",
+    "input": "Delhi Police Cyber Crime: Illegal narcotics found in courier booked under your Aadhaar. Digital arrest warrant issued. Join Skype call now. (Tracking: IND3828)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Delivery Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_DEL_117",
+    "input": "Amazon Delivery: Driver could not reach you. Reschedule delivery date and verify identity: http://amazon-redelivery.xyz (Tracking: IND3861)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Delivery Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_DEL_118",
+    "input": "BlueDart: Address validation fee of Rs 5 pending for courier consignment #BD7391. Pay now: http://bluedart-fee.top (Tracking: IND3894)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Delivery Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_DEL_119",
+    "input": "Parcel aana baaki hai. Address update nahi kiya toh return ho jayega. Click: http://track-pack.xyz (Tracking: IND3927)",
+    "input_type": "text",
+    "language": "mixed",
+    "label": "scam",
+    "scam_type": "Delivery Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_DEL_120",
+    "input": "Courier service officer: Pay customs duty via UPI to avoid criminal seizure report. (Tracking: IND3960)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Delivery Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_DEL_121",
+    "input": "India Post: Your package could not be delivered due to incorrect street number. Update address here within 12 hours: http://indiapost-parcel.top/track (Tracking: IND3993)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Delivery Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_DEL_122",
+    "input": "FedEx Express: Parcel #FDX8921 on hold. Pay outstanding customs clearance fee of Rs 48. Click: http://fedex-express-customs.xyz (Tracking: IND4026)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Delivery Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_DEL_123",
+    "input": "DHL Courier: Urgent notice! Your international shipment has been stopped by customs. Contact inspector immediately: +923001234567 (Tracking: IND4059)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Delivery Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_DEL_124",
+    "input": "உங்கள் அஞ்சல் பார்சல் முகவரி தவறு காரணமாக நிறுத்தப்பட்டுள்ளது. உடனே புதுப்பிக்க: http://post-tn.click (Tracking: IND4092)",
+    "input_type": "text",
+    "language": "ta",
+    "label": "scam",
+    "scam_type": "Delivery Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_DEL_125",
+    "input": "भारतीय डाक: आपका पार्सल पते की गलती के कारण रुक गया है। आज ही पता अपडेट करें अन्यथा पार्सल वापस कर दिया जाएगा। (Tracking: IND4125)",
+    "input_type": "text",
+    "language": "hi",
+    "label": "scam",
+    "scam_type": "Delivery Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_DEL_126",
+    "input": "Delhi Police Cyber Crime: Illegal narcotics found in courier booked under your Aadhaar. Digital arrest warrant issued. Join Skype call now. (Tracking: IND4158)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Delivery Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_DEL_127",
+    "input": "Amazon Delivery: Driver could not reach you. Reschedule delivery date and verify identity: http://amazon-redelivery.xyz (Tracking: IND4191)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Delivery Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_DEL_128",
+    "input": "BlueDart: Address validation fee of Rs 5 pending for courier consignment #BD7391. Pay now: http://bluedart-fee.top (Tracking: IND4224)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Delivery Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_DEL_129",
+    "input": "Parcel aana baaki hai. Address update nahi kiya toh return ho jayega. Click: http://track-pack.xyz (Tracking: IND4257)",
+    "input_type": "text",
+    "language": "mixed",
+    "label": "scam",
+    "scam_type": "Delivery Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_DEL_130",
+    "input": "Courier service officer: Pay customs duty via UPI to avoid criminal seizure report. (Tracking: IND4290)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Delivery Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_DEL_131",
+    "input": "India Post: Your package could not be delivered due to incorrect street number. Update address here within 12 hours: http://indiapost-parcel.top/track (Tracking: IND4323)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Delivery Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_DEL_132",
+    "input": "FedEx Express: Parcel #FDX8921 on hold. Pay outstanding customs clearance fee of Rs 48. Click: http://fedex-express-customs.xyz (Tracking: IND4356)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Delivery Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_DEL_133",
+    "input": "DHL Courier: Urgent notice! Your international shipment has been stopped by customs. Contact inspector immediately: +923001234567 (Tracking: IND4389)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Delivery Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_DEL_134",
+    "input": "உங்கள் அஞ்சல் பார்சல் முகவரி தவறு காரணமாக நிறுத்தப்பட்டுள்ளது. உடனே புதுப்பிக்க: http://post-tn.click (Tracking: IND4422)",
+    "input_type": "text",
+    "language": "ta",
+    "label": "scam",
+    "scam_type": "Delivery Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_DEL_135",
+    "input": "भारतीय डाक: आपका पार्सल पते की गलती के कारण रुक गया है। आज ही पता अपडेट करें अन्यथा पार्सल वापस कर दिया जाएगा। (Tracking: IND4455)",
+    "input_type": "text",
+    "language": "hi",
+    "label": "scam",
+    "scam_type": "Delivery Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_DEL_136",
+    "input": "Delhi Police Cyber Crime: Illegal narcotics found in courier booked under your Aadhaar. Digital arrest warrant issued. Join Skype call now. (Tracking: IND4488)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Delivery Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_DEL_137",
+    "input": "Amazon Delivery: Driver could not reach you. Reschedule delivery date and verify identity: http://amazon-redelivery.xyz (Tracking: IND4521)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Delivery Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_DEL_138",
+    "input": "BlueDart: Address validation fee of Rs 5 pending for courier consignment #BD7391. Pay now: http://bluedart-fee.top (Tracking: IND4554)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Delivery Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_DEL_139",
+    "input": "Parcel aana baaki hai. Address update nahi kiya toh return ho jayega. Click: http://track-pack.xyz (Tracking: IND4587)",
+    "input_type": "text",
+    "language": "mixed",
+    "label": "scam",
+    "scam_type": "Delivery Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_DEL_140",
+    "input": "Courier service officer: Pay customs duty via UPI to avoid criminal seizure report. (Tracking: IND4620)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Delivery Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_DEL_141",
+    "input": "India Post: Your package could not be delivered due to incorrect street number. Update address here within 12 hours: http://indiapost-parcel.top/track (Tracking: IND4653)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Delivery Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_DEL_142",
+    "input": "FedEx Express: Parcel #FDX8921 on hold. Pay outstanding customs clearance fee of Rs 48. Click: http://fedex-express-customs.xyz (Tracking: IND4686)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Delivery Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_DEL_143",
+    "input": "DHL Courier: Urgent notice! Your international shipment has been stopped by customs. Contact inspector immediately: +923001234567 (Tracking: IND4719)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Delivery Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_DEL_144",
+    "input": "உங்கள் அஞ்சல் பார்சல் முகவரி தவறு காரணமாக நிறுத்தப்பட்டுள்ளது. உடனே புதுப்பிக்க: http://post-tn.click (Tracking: IND4752)",
+    "input_type": "text",
+    "language": "ta",
+    "label": "scam",
+    "scam_type": "Delivery Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_DEL_145",
+    "input": "भारतीय डाक: आपका पार्सल पते की गलती के कारण रुक गया है। आज ही पता अपडेट करें अन्यथा पार्सल वापस कर दिया जाएगा। (Tracking: IND4785)",
+    "input_type": "text",
+    "language": "hi",
+    "label": "scam",
+    "scam_type": "Delivery Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_DEL_146",
+    "input": "Delhi Police Cyber Crime: Illegal narcotics found in courier booked under your Aadhaar. Digital arrest warrant issued. Join Skype call now. (Tracking: IND4818)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Delivery Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_DEL_147",
+    "input": "Amazon Delivery: Driver could not reach you. Reschedule delivery date and verify identity: http://amazon-redelivery.xyz (Tracking: IND4851)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Delivery Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_DEL_148",
+    "input": "BlueDart: Address validation fee of Rs 5 pending for courier consignment #BD7391. Pay now: http://bluedart-fee.top (Tracking: IND4884)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Delivery Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_DEL_149",
+    "input": "Parcel aana baaki hai. Address update nahi kiya toh return ho jayega. Click: http://track-pack.xyz (Tracking: IND4917)",
+    "input_type": "text",
+    "language": "mixed",
+    "label": "scam",
+    "scam_type": "Delivery Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_DEL_150",
+    "input": "Courier service officer: Pay customs duty via UPI to avoid criminal seizure report. (Tracking: IND4950)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Delivery Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_JOB_151",
+    "input": "Part-time Work from Home! Earn Rs 3000 to Rs 8000 daily by rating Google Maps & liking YouTube videos. Contact HR on Telegram @EarnDailyFast",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Job Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_JOB_152",
+    "input": "Amazon Recruiter: Congratulations! Your resume shortlisted for remote data entry. Pay Rs 999 registration fee for onboarding kit.",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Job Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_JOB_153",
+    "input": "வீட்டிலிருந்தே வேலை! தினமும் 5000 ரூபாய் சம்பாதிக்கலாம். உடனடியாக Telegram குழுவில் இணையுங்கள்.",
+    "input_type": "text",
+    "language": "ta",
+    "label": "scam",
+    "scam_type": "Job Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_JOB_154",
+    "input": "घर बैठे पैसे कमाएं! यूट्यूब वीडियो लाइक करके रोज 2000-5000 कमाएं। अभी व्हाट्सएप करें: +919876543210",
+    "input_type": "text",
+    "language": "hi",
+    "label": "scam",
+    "scam_type": "Job Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_JOB_155",
+    "input": "VIP Crypto Investment Club: 200% guaranteed profit within 7 days. Deposit minimum Rs 5000 today.",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Job Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_JOB_156",
+    "input": "Ghar baithe part time job. Rozana 4000 kamaye. Join telegram channel now for instant payout.",
+    "input_type": "text",
+    "language": "mixed",
+    "label": "scam",
+    "scam_type": "Job Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_JOB_157",
+    "input": "Railway Recruitment Board: Direct job appointment letter issued. Pay medical examination fee to secure joining.",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Job Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_JOB_158",
+    "input": "Stock trading AI bot with 99.8% win rate. Transfer funds to our manager account to start compounding.",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Job Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_JOB_159",
+    "input": "Instagram Influencer Collaboration: Earn Rs 50,000. Click here and sign in with your Instagram password: http://collab-login.xyz",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Job Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_JOB_160",
+    "input": "Instant loan approved up to Rs 5,00,000 without CIBIL score! Pay 2% processing fee to release disbursement.",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Job Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_JOB_161",
+    "input": "Part-time Work from Home! Earn Rs 3000 to Rs 8000 daily by rating Google Maps & liking YouTube videos. Contact HR on Telegram @EarnDailyFast (ID #7567)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Job Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_JOB_162",
+    "input": "Amazon Recruiter: Congratulations! Your resume shortlisted for remote data entry. Pay Rs 999 registration fee for onboarding kit. (ID #7614)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Job Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_JOB_163",
+    "input": "வீட்டிலிருந்தே வேலை! தினமும் 5000 ரூபாய் சம்பாதிக்கலாம். உடனடியாக Telegram குழுவில் இணையுங்கள். (ID #7661)",
+    "input_type": "text",
+    "language": "ta",
+    "label": "scam",
+    "scam_type": "Job Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_JOB_164",
+    "input": "घर बैठे पैसे कमाएं! यूट्यूब वीडियो लाइक करके रोज 2000-5000 कमाएं। अभी व्हाट्सएप करें: +919876543210 (ID #7708)",
+    "input_type": "text",
+    "language": "hi",
+    "label": "scam",
+    "scam_type": "Job Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_JOB_165",
+    "input": "VIP Crypto Investment Club: 200% guaranteed profit within 7 days. Deposit minimum Rs 5000 today. (ID #7755)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Job Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_JOB_166",
+    "input": "Ghar baithe part time job. Rozana 4000 kamaye. Join telegram channel now for instant payout. (ID #7802)",
+    "input_type": "text",
+    "language": "mixed",
+    "label": "scam",
+    "scam_type": "Job Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_JOB_167",
+    "input": "Railway Recruitment Board: Direct job appointment letter issued. Pay medical examination fee to secure joining. (ID #7849)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Job Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_JOB_168",
+    "input": "Stock trading AI bot with 99.8% win rate. Transfer funds to our manager account to start compounding. (ID #7896)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Job Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_JOB_169",
+    "input": "Instagram Influencer Collaboration: Earn Rs 50,000. Click here and sign in with your Instagram password: http://collab-login.xyz (ID #7943)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Job Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_JOB_170",
+    "input": "Instant loan approved up to Rs 5,00,000 without CIBIL score! Pay 2% processing fee to release disbursement. (ID #7990)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Job Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_JOB_171",
+    "input": "Part-time Work from Home! Earn Rs 3000 to Rs 8000 daily by rating Google Maps & liking YouTube videos. Contact HR on Telegram @EarnDailyFast (ID #8037)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Job Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_JOB_172",
+    "input": "Amazon Recruiter: Congratulations! Your resume shortlisted for remote data entry. Pay Rs 999 registration fee for onboarding kit. (ID #8084)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Job Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_JOB_173",
+    "input": "வீட்டிலிருந்தே வேலை! தினமும் 5000 ரூபாய் சம்பாதிக்கலாம். உடனடியாக Telegram குழுவில் இணையுங்கள். (ID #8131)",
+    "input_type": "text",
+    "language": "ta",
+    "label": "scam",
+    "scam_type": "Job Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_JOB_174",
+    "input": "घर बैठे पैसे कमाएं! यूट्यूब वीडियो लाइक करके रोज 2000-5000 कमाएं। अभी व्हाट्सएप करें: +919876543210 (ID #8178)",
+    "input_type": "text",
+    "language": "hi",
+    "label": "scam",
+    "scam_type": "Job Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_JOB_175",
+    "input": "VIP Crypto Investment Club: 200% guaranteed profit within 7 days. Deposit minimum Rs 5000 today. (ID #8225)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Job Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_JOB_176",
+    "input": "Ghar baithe part time job. Rozana 4000 kamaye. Join telegram channel now for instant payout. (ID #8272)",
+    "input_type": "text",
+    "language": "mixed",
+    "label": "scam",
+    "scam_type": "Job Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_JOB_177",
+    "input": "Railway Recruitment Board: Direct job appointment letter issued. Pay medical examination fee to secure joining. (ID #8319)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Job Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_JOB_178",
+    "input": "Stock trading AI bot with 99.8% win rate. Transfer funds to our manager account to start compounding. (ID #8366)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Job Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_JOB_179",
+    "input": "Instagram Influencer Collaboration: Earn Rs 50,000. Click here and sign in with your Instagram password: http://collab-login.xyz (ID #8413)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Job Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_JOB_180",
+    "input": "Instant loan approved up to Rs 5,00,000 without CIBIL score! Pay 2% processing fee to release disbursement. (ID #8460)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Job Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_JOB_181",
+    "input": "Part-time Work from Home! Earn Rs 3000 to Rs 8000 daily by rating Google Maps & liking YouTube videos. Contact HR on Telegram @EarnDailyFast (ID #8507)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Job Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_JOB_182",
+    "input": "Amazon Recruiter: Congratulations! Your resume shortlisted for remote data entry. Pay Rs 999 registration fee for onboarding kit. (ID #8554)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Job Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_JOB_183",
+    "input": "வீட்டிலிருந்தே வேலை! தினமும் 5000 ரூபாய் சம்பாதிக்கலாம். உடனடியாக Telegram குழுவில் இணையுங்கள். (ID #8601)",
+    "input_type": "text",
+    "language": "ta",
+    "label": "scam",
+    "scam_type": "Job Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_JOB_184",
+    "input": "घर बैठे पैसे कमाएं! यूट्यूब वीडियो लाइक करके रोज 2000-5000 कमाएं। अभी व्हाट्सएप करें: +919876543210 (ID #8648)",
+    "input_type": "text",
+    "language": "hi",
+    "label": "scam",
+    "scam_type": "Job Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_JOB_185",
+    "input": "VIP Crypto Investment Club: 200% guaranteed profit within 7 days. Deposit minimum Rs 5000 today. (ID #8695)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Job Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_JOB_186",
+    "input": "Ghar baithe part time job. Rozana 4000 kamaye. Join telegram channel now for instant payout. (ID #8742)",
+    "input_type": "text",
+    "language": "mixed",
+    "label": "scam",
+    "scam_type": "Job Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_JOB_187",
+    "input": "Railway Recruitment Board: Direct job appointment letter issued. Pay medical examination fee to secure joining. (ID #8789)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Job Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_JOB_188",
+    "input": "Stock trading AI bot with 99.8% win rate. Transfer funds to our manager account to start compounding. (ID #8836)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Job Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_JOB_189",
+    "input": "Instagram Influencer Collaboration: Earn Rs 50,000. Click here and sign in with your Instagram password: http://collab-login.xyz (ID #8883)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Job Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_JOB_190",
+    "input": "Instant loan approved up to Rs 5,00,000 without CIBIL score! Pay 2% processing fee to release disbursement. (ID #8930)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Job Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_JOB_191",
+    "input": "Part-time Work from Home! Earn Rs 3000 to Rs 8000 daily by rating Google Maps & liking YouTube videos. Contact HR on Telegram @EarnDailyFast (ID #8977)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Job Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_JOB_192",
+    "input": "Amazon Recruiter: Congratulations! Your resume shortlisted for remote data entry. Pay Rs 999 registration fee for onboarding kit. (ID #9024)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Job Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_JOB_193",
+    "input": "வீட்டிலிருந்தே வேலை! தினமும் 5000 ரூபாய் சம்பாதிக்கலாம். உடனடியாக Telegram குழுவில் இணையுங்கள். (ID #9071)",
+    "input_type": "text",
+    "language": "ta",
+    "label": "scam",
+    "scam_type": "Job Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_JOB_194",
+    "input": "घर बैठे पैसे कमाएं! यूट्यूब वीडियो लाइक करके रोज 2000-5000 कमाएं। अभी व्हाट्सएप करें: +919876543210 (ID #9118)",
+    "input_type": "text",
+    "language": "hi",
+    "label": "scam",
+    "scam_type": "Job Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_JOB_195",
+    "input": "VIP Crypto Investment Club: 200% guaranteed profit within 7 days. Deposit minimum Rs 5000 today. (ID #9165)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Job Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_JOB_196",
+    "input": "Ghar baithe part time job. Rozana 4000 kamaye. Join telegram channel now for instant payout. (ID #9212)",
+    "input_type": "text",
+    "language": "mixed",
+    "label": "scam",
+    "scam_type": "Job Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_JOB_197",
+    "input": "Railway Recruitment Board: Direct job appointment letter issued. Pay medical examination fee to secure joining. (ID #9259)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Job Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_JOB_198",
+    "input": "Stock trading AI bot with 99.8% win rate. Transfer funds to our manager account to start compounding. (ID #9306)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Job Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_JOB_199",
+    "input": "Instagram Influencer Collaboration: Earn Rs 50,000. Click here and sign in with your Instagram password: http://collab-login.xyz (ID #9353)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Job Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_JOB_200",
+    "input": "Instant loan approved up to Rs 5,00,000 without CIBIL score! Pay 2% processing fee to release disbursement. (ID #9400)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Job Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_UTIL_201",
+    "input": "Electricity Officer Notice: Your power supply will be disconnected tonight at 9:30 PM because previous month bill was not updated. Call our electricity officer at 9123456780 immediately.",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Utility Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_UTIL_202",
+    "input": "உங்கள் மின்சார இணைப்பு இன்று இரவு 9 மணிக்கு துண்டிக்கப்படும். உடனே இந்த எண்ணை தொடர்பு கொள்ளவும்: 9840123456",
+    "input_type": "text",
+    "language": "ta",
+    "label": "scam",
+    "scam_type": "Utility Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_UTIL_203",
+    "input": "प्रिय उपभोक्ता, आज रात 9:30 बजे आपकी बिजली काट दी जाएगी क्योंकि आपका पिछला बिल अपडेट नहीं हुआ है। तुरंत संपर्क करें।",
+    "input_type": "text",
+    "language": "hi",
+    "label": "scam",
+    "scam_type": "Utility Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_UTIL_204",
+    "input": "Bijli cut ho jayegi aaj raat 9 baje. Bill update karne ke liye turant call kare 9876543210.",
+    "input_type": "text",
+    "language": "mixed",
+    "label": "scam",
+    "scam_type": "Utility Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_UTIL_205",
+    "input": "Water department notice: Unpaid water tax penalty. Pay immediately via link or tap will be disconnected: http://water-tax.top",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Utility Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_UTIL_206",
+    "input": "Gas connection subsidy expiring today. Update bank details to continue receiving LPG subsidy: http://lpg-subsidy.xyz",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Utility Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_UTIL_207",
+    "input": "Electricity Officer Notice: Your power supply will be disconnected tonight at 9:30 PM because previous month bill was not updated. Call our electricity officer at 9123456780 immediately.",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Utility Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_UTIL_208",
+    "input": "உங்கள் மின்சார இணைப்பு இன்று இரவு 9 மணிக்கு துண்டிக்கப்படும். உடனே இந்த எண்ணை தொடர்பு கொள்ளவும்: 9840123456",
+    "input_type": "text",
+    "language": "ta",
+    "label": "scam",
+    "scam_type": "Utility Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_UTIL_209",
+    "input": "प्रिय उपभोक्ता, आज रात 9:30 बजे आपकी बिजली काट दी जाएगी क्योंकि आपका पिछला बिल अपडेट नहीं हुआ है। तुरंत संपर्क करें।",
+    "input_type": "text",
+    "language": "hi",
+    "label": "scam",
+    "scam_type": "Utility Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_UTIL_210",
+    "input": "Bijli cut ho jayegi aaj raat 9 baje. Bill update karne ke liye turant call kare 9876543210.",
+    "input_type": "text",
+    "language": "mixed",
+    "label": "scam",
+    "scam_type": "Utility Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_UTIL_211",
+    "input": "Water department notice: Unpaid water tax penalty. Pay immediately via link or tap will be disconnected: http://water-tax.top (Consumer #18568)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Utility Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_UTIL_212",
+    "input": "Gas connection subsidy expiring today. Update bank details to continue receiving LPG subsidy: http://lpg-subsidy.xyz (Consumer #18656)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Utility Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_UTIL_213",
+    "input": "Electricity Officer Notice: Your power supply will be disconnected tonight at 9:30 PM because previous month bill was not updated. Call our electricity officer at 9123456780 immediately. (Consumer #18744)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Utility Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_UTIL_214",
+    "input": "உங்கள் மின்சார இணைப்பு இன்று இரவு 9 மணிக்கு துண்டிக்கப்படும். உடனே இந்த எண்ணை தொடர்பு கொள்ளவும்: 9840123456 (Consumer #18832)",
+    "input_type": "text",
+    "language": "ta",
+    "label": "scam",
+    "scam_type": "Utility Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_UTIL_215",
+    "input": "प्रिय उपभोक्ता, आज रात 9:30 बजे आपकी बिजली काट दी जाएगी क्योंकि आपका पिछला बिल अपडेट नहीं हुआ है। तुरंत संपर्क करें। (Consumer #18920)",
+    "input_type": "text",
+    "language": "hi",
+    "label": "scam",
+    "scam_type": "Utility Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_UTIL_216",
+    "input": "Bijli cut ho jayegi aaj raat 9 baje. Bill update karne ke liye turant call kare 9876543210. (Consumer #19008)",
+    "input_type": "text",
+    "language": "mixed",
+    "label": "scam",
+    "scam_type": "Utility Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_UTIL_217",
+    "input": "Water department notice: Unpaid water tax penalty. Pay immediately via link or tap will be disconnected: http://water-tax.top (Consumer #19096)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Utility Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_UTIL_218",
+    "input": "Gas connection subsidy expiring today. Update bank details to continue receiving LPG subsidy: http://lpg-subsidy.xyz (Consumer #19184)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Utility Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_UTIL_219",
+    "input": "Electricity Officer Notice: Your power supply will be disconnected tonight at 9:30 PM because previous month bill was not updated. Call our electricity officer at 9123456780 immediately. (Consumer #19272)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Utility Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_UTIL_220",
+    "input": "உங்கள் மின்சார இணைப்பு இன்று இரவு 9 மணிக்கு துண்டிக்கப்படும். உடனே இந்த எண்ணை தொடர்பு கொள்ளவும்: 9840123456 (Consumer #19360)",
+    "input_type": "text",
+    "language": "ta",
+    "label": "scam",
+    "scam_type": "Utility Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_UTIL_221",
+    "input": "प्रिय उपभोक्ता, आज रात 9:30 बजे आपकी बिजली काट दी जाएगी क्योंकि आपका पिछला बिल अपडेट नहीं हुआ है। तुरंत संपर्क करें। (Consumer #19448)",
+    "input_type": "text",
+    "language": "hi",
+    "label": "scam",
+    "scam_type": "Utility Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_UTIL_222",
+    "input": "Bijli cut ho jayegi aaj raat 9 baje. Bill update karne ke liye turant call kare 9876543210. (Consumer #19536)",
+    "input_type": "text",
+    "language": "mixed",
+    "label": "scam",
+    "scam_type": "Utility Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_UTIL_223",
+    "input": "Water department notice: Unpaid water tax penalty. Pay immediately via link or tap will be disconnected: http://water-tax.top (Consumer #19624)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Utility Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_UTIL_224",
+    "input": "Gas connection subsidy expiring today. Update bank details to continue receiving LPG subsidy: http://lpg-subsidy.xyz (Consumer #19712)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Utility Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_UTIL_225",
+    "input": "Electricity Officer Notice: Your power supply will be disconnected tonight at 9:30 PM because previous month bill was not updated. Call our electricity officer at 9123456780 immediately. (Consumer #19800)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Utility Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_UTIL_226",
+    "input": "உங்கள் மின்சார இணைப்பு இன்று இரவு 9 மணிக்கு துண்டிக்கப்படும். உடனே இந்த எண்ணை தொடர்பு கொள்ளவும்: 9840123456 (Consumer #19888)",
+    "input_type": "text",
+    "language": "ta",
+    "label": "scam",
+    "scam_type": "Utility Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_UTIL_227",
+    "input": "प्रिय उपभोक्ता, आज रात 9:30 बजे आपकी बिजली काट दी जाएगी क्योंकि आपका पिछला बिल अपडेट नहीं हुआ है। तुरंत संपर्क करें। (Consumer #19976)",
+    "input_type": "text",
+    "language": "hi",
+    "label": "scam",
+    "scam_type": "Utility Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_UTIL_228",
+    "input": "Bijli cut ho jayegi aaj raat 9 baje. Bill update karne ke liye turant call kare 9876543210. (Consumer #20064)",
+    "input_type": "text",
+    "language": "mixed",
+    "label": "scam",
+    "scam_type": "Utility Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_UTIL_229",
+    "input": "Water department notice: Unpaid water tax penalty. Pay immediately via link or tap will be disconnected: http://water-tax.top (Consumer #20152)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Utility Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_UTIL_230",
+    "input": "Gas connection subsidy expiring today. Update bank details to continue receiving LPG subsidy: http://lpg-subsidy.xyz (Consumer #20240)",
+    "input_type": "text",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Utility Scam",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_URL_231",
+    "input": "http://192.168.1.1/admin/login.php",
+    "input_type": "url",
+    "language": "en",
+    "label": "suspicious",
+    "scam_type": "SSRF / Local IP",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_URL_232",
+    "input": "http://169.254.169.254/latest/meta-data/",
+    "input_type": "url",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "SSRF Cloud Metadata",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_URL_233",
+    "input": "https://onlinesbi.login-portal.top/netbanking",
+    "input_type": "url",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Lookalike Typosquatting",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_URL_234",
+    "input": "https://hdfcbank.secure-auth.xyz/verify",
+    "input_type": "url",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Lookalike Typosquatting",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_URL_235",
+    "input": "https://paytm.cashback-offer.club/claim",
+    "input_type": "url",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Lookalike Typosquatting",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_URL_236",
+    "input": "https://xn--sbi-8ka.com/login",
+    "input_type": "url",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Punycode Homoglyph",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_URL_237",
+    "input": "http://192.168.1.1/admin/login.php",
+    "input_type": "url",
+    "language": "en",
+    "label": "suspicious",
+    "scam_type": "SSRF / Local IP",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_URL_238",
+    "input": "http://169.254.169.254/latest/meta-data/",
+    "input_type": "url",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "SSRF Cloud Metadata",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_URL_239",
+    "input": "https://onlinesbi.login-portal.top/netbanking",
+    "input_type": "url",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Lookalike Typosquatting",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_URL_240",
+    "input": "https://hdfcbank.secure-auth.xyz/verify",
+    "input_type": "url",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Lookalike Typosquatting",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_URL_241",
+    "input": "https://paytm.cashback-offer.club/claim?ref=241",
+    "input_type": "url",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Lookalike Typosquatting",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_URL_242",
+    "input": "https://xn--sbi-8ka.com/login?ref=242",
+    "input_type": "url",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Punycode Homoglyph",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_URL_243",
+    "input": "http://192.168.1.1/admin/login.php?ref=243",
+    "input_type": "url",
+    "language": "en",
+    "label": "suspicious",
+    "scam_type": "SSRF / Local IP",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_URL_244",
+    "input": "http://169.254.169.254/latest/meta-data/?ref=244",
+    "input_type": "url",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "SSRF Cloud Metadata",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_URL_245",
+    "input": "https://onlinesbi.login-portal.top/netbanking?ref=245",
+    "input_type": "url",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Lookalike Typosquatting",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_URL_246",
+    "input": "https://hdfcbank.secure-auth.xyz/verify?ref=246",
+    "input_type": "url",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Lookalike Typosquatting",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_URL_247",
+    "input": "https://paytm.cashback-offer.club/claim?ref=247",
+    "input_type": "url",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Lookalike Typosquatting",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_URL_248",
+    "input": "https://xn--sbi-8ka.com/login?ref=248",
+    "input_type": "url",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Punycode Homoglyph",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_URL_249",
+    "input": "http://192.168.1.1/admin/login.php?ref=249",
+    "input_type": "url",
+    "language": "en",
+    "label": "suspicious",
+    "scam_type": "SSRF / Local IP",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_URL_250",
+    "input": "http://169.254.169.254/latest/meta-data/?ref=250",
+    "input_type": "url",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "SSRF Cloud Metadata",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_URL_251",
+    "input": "https://onlinesbi.login-portal.top/netbanking?ref=251",
+    "input_type": "url",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Lookalike Typosquatting",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_URL_252",
+    "input": "https://hdfcbank.secure-auth.xyz/verify?ref=252",
+    "input_type": "url",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Lookalike Typosquatting",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_URL_253",
+    "input": "https://paytm.cashback-offer.club/claim?ref=253",
+    "input_type": "url",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Lookalike Typosquatting",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_URL_254",
+    "input": "https://xn--sbi-8ka.com/login?ref=254",
+    "input_type": "url",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Punycode Homoglyph",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_URL_255",
+    "input": "http://192.168.1.1/admin/login.php?ref=255",
+    "input_type": "url",
+    "language": "en",
+    "label": "suspicious",
+    "scam_type": "SSRF / Local IP",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_URL_256",
+    "input": "http://169.254.169.254/latest/meta-data/?ref=256",
+    "input_type": "url",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "SSRF Cloud Metadata",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_URL_257",
+    "input": "https://onlinesbi.login-portal.top/netbanking?ref=257",
+    "input_type": "url",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Lookalike Typosquatting",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_URL_258",
+    "input": "https://hdfcbank.secure-auth.xyz/verify?ref=258",
+    "input_type": "url",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Lookalike Typosquatting",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_URL_259",
+    "input": "https://paytm.cashback-offer.club/claim?ref=259",
+    "input_type": "url",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Lookalike Typosquatting",
+    "source": "synthetic"
+  },
+  {
+    "id": "SCAM_URL_260",
+    "input": "https://xn--sbi-8ka.com/login?ref=260",
+    "input_type": "url",
+    "language": "en",
+    "label": "scam",
+    "scam_type": "Punycode Homoglyph",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_261",
+    "input": "Your OTP for transaction of Rs 499.00 at Swiggy is 482910. Valid for 10 mins. Do NOT share OTP with anyone including bank staff.",
+    "input_type": "text",
+    "language": "en",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_262",
+    "input": "Dear Customer, Rs 2,500.00 debited from A/C XX4921 on 21-Sep-26 towards UPI-ZOMATO. Available bal: Rs 48,210.50. SBI.",
+    "input_type": "text",
+    "language": "en",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_263",
+    "input": "Your Amazon order #402-892182-192 for 'Wireless Mouse' has been shipped and will arrive tomorrow by 8 PM.",
+    "input_type": "text",
+    "language": "en",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_264",
+    "input": "Hey Arun, are we meeting for the project presentation at the college library at 4 PM today?",
+    "input_type": "text",
+    "language": "en",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_265",
+    "input": "உங்கள் கணக்கிலிருந்து ரூ 500 எடுக்கப்பட்டுள்ளது. மீதி இருப்பு ரூ 12000. பாரத ஸ்டேட் வங்கி.",
+    "input_type": "text",
+    "language": "ta",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_266",
+    "input": "வணக்கம், நாளை காலை கல்லூரியில் நடைபெறும் கருத்தரங்கிற்கு அனைவரும் தவறாமல் வரவும்.",
+    "input_type": "text",
+    "language": "ta",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_267",
+    "input": "आपके खाते से 1000 रुपये डेबिट हुए हैं। शेष राशि 15,400 रुपये है। बैंक ऑफ बड़ौदा।",
+    "input_type": "text",
+    "language": "hi",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_268",
+    "input": "कल सुबह 10 बजे मीटिंग है। कृपया सभी प्रोजेक्ट रिपोर्ट साथ लेकर आएं।",
+    "input_type": "text",
+    "language": "hi",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_269",
+    "input": "Kal college aane se pehle assignment print karva lena.",
+    "input_type": "text",
+    "language": "mixed",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_270",
+    "input": "Nalaiki seminar ku presentation ready pannitiya?",
+    "input_type": "text",
+    "language": "mixed",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_271",
+    "input": "https://www.onlinesbi.sbi?ref=271",
+    "input_type": "url",
+    "language": "en",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_272",
+    "input": "https://www.hdfcbank.com?ref=272",
+    "input_type": "url",
+    "language": "en",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_273",
+    "input": "https://cybercrime.gov.in?ref=273",
+    "input_type": "url",
+    "language": "en",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_274",
+    "input": "https://www.google.com?ref=274",
+    "input_type": "url",
+    "language": "en",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_275",
+    "input": "https://github.com?ref=275",
+    "input_type": "url",
+    "language": "en",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_276",
+    "input": "Your OTP for transaction of Rs 499.00 at Swiggy is 482910. Valid for 10 mins. Do NOT share OTP with anyone including bank staff. [Seq 276]",
+    "input_type": "text",
+    "language": "en",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_277",
+    "input": "Dear Customer, Rs 2,500.00 debited from A/C XX4921 on 21-Sep-26 towards UPI-ZOMATO. Available bal: Rs 48,210.50. SBI. [Seq 277]",
+    "input_type": "text",
+    "language": "en",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_278",
+    "input": "Your Amazon order #402-892182-192 for 'Wireless Mouse' has been shipped and will arrive tomorrow by 8 PM. [Seq 278]",
+    "input_type": "text",
+    "language": "en",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_279",
+    "input": "Hey Arun, are we meeting for the project presentation at the college library at 4 PM today? [Seq 279]",
+    "input_type": "text",
+    "language": "en",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_280",
+    "input": "உங்கள் கணக்கிலிருந்து ரூ 500 எடுக்கப்பட்டுள்ளது. மீதி இருப்பு ரூ 12000. பாரத ஸ்டேட் வங்கி. [Seq 280]",
+    "input_type": "text",
+    "language": "ta",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_281",
+    "input": "வணக்கம், நாளை காலை கல்லூரியில் நடைபெறும் கருத்தரங்கிற்கு அனைவரும் தவறாமல் வரவும். [Seq 281]",
+    "input_type": "text",
+    "language": "ta",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_282",
+    "input": "आपके खाते से 1000 रुपये डेबिट हुए हैं। शेष राशि 15,400 रुपये है। बैंक ऑफ बड़ौदा। [Seq 282]",
+    "input_type": "text",
+    "language": "hi",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_283",
+    "input": "कल सुबह 10 बजे मीटिंग है। कृपया सभी प्रोजेक्ट रिपोर्ट साथ लेकर आएं। [Seq 283]",
+    "input_type": "text",
+    "language": "hi",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_284",
+    "input": "Kal college aane se pehle assignment print karva lena. [Seq 284]",
+    "input_type": "text",
+    "language": "mixed",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_285",
+    "input": "Nalaiki seminar ku presentation ready pannitiya? [Seq 285]",
+    "input_type": "text",
+    "language": "mixed",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_286",
+    "input": "https://www.onlinesbi.sbi?ref=286",
+    "input_type": "url",
+    "language": "en",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_287",
+    "input": "https://www.hdfcbank.com?ref=287",
+    "input_type": "url",
+    "language": "en",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_288",
+    "input": "https://cybercrime.gov.in?ref=288",
+    "input_type": "url",
+    "language": "en",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_289",
+    "input": "https://www.google.com?ref=289",
+    "input_type": "url",
+    "language": "en",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_290",
+    "input": "https://github.com?ref=290",
+    "input_type": "url",
+    "language": "en",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_291",
+    "input": "Your OTP for transaction of Rs 499.00 at Swiggy is 482910. Valid for 10 mins. Do NOT share OTP with anyone including bank staff. [Seq 291]",
+    "input_type": "text",
+    "language": "en",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_292",
+    "input": "Dear Customer, Rs 2,500.00 debited from A/C XX4921 on 21-Sep-26 towards UPI-ZOMATO. Available bal: Rs 48,210.50. SBI. [Seq 292]",
+    "input_type": "text",
+    "language": "en",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_293",
+    "input": "Your Amazon order #402-892182-192 for 'Wireless Mouse' has been shipped and will arrive tomorrow by 8 PM. [Seq 293]",
+    "input_type": "text",
+    "language": "en",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_294",
+    "input": "Hey Arun, are we meeting for the project presentation at the college library at 4 PM today? [Seq 294]",
+    "input_type": "text",
+    "language": "en",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_295",
+    "input": "உங்கள் கணக்கிலிருந்து ரூ 500 எடுக்கப்பட்டுள்ளது. மீதி இருப்பு ரூ 12000. பாரத ஸ்டேட் வங்கி. [Seq 295]",
+    "input_type": "text",
+    "language": "ta",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_296",
+    "input": "வணக்கம், நாளை காலை கல்லூரியில் நடைபெறும் கருத்தரங்கிற்கு அனைவரும் தவறாமல் வரவும். [Seq 296]",
+    "input_type": "text",
+    "language": "ta",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_297",
+    "input": "आपके खाते से 1000 रुपये डेबिट हुए हैं। शेष राशि 15,400 रुपये है। बैंक ऑफ बड़ौदा। [Seq 297]",
+    "input_type": "text",
+    "language": "hi",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_298",
+    "input": "कल सुबह 10 बजे मीटिंग है। कृपया सभी प्रोजेक्ट रिपोर्ट साथ लेकर आएं। [Seq 298]",
+    "input_type": "text",
+    "language": "hi",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_299",
+    "input": "Kal college aane se pehle assignment print karva lena. [Seq 299]",
+    "input_type": "text",
+    "language": "mixed",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_300",
+    "input": "Nalaiki seminar ku presentation ready pannitiya? [Seq 300]",
+    "input_type": "text",
+    "language": "mixed",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_301",
+    "input": "https://www.onlinesbi.sbi?ref=301",
+    "input_type": "url",
+    "language": "en",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_302",
+    "input": "https://www.hdfcbank.com?ref=302",
+    "input_type": "url",
+    "language": "en",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_303",
+    "input": "https://cybercrime.gov.in?ref=303",
+    "input_type": "url",
+    "language": "en",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_304",
+    "input": "https://www.google.com?ref=304",
+    "input_type": "url",
+    "language": "en",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_305",
+    "input": "https://github.com?ref=305",
+    "input_type": "url",
+    "language": "en",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_306",
+    "input": "Your OTP for transaction of Rs 499.00 at Swiggy is 482910. Valid for 10 mins. Do NOT share OTP with anyone including bank staff. [Seq 306]",
+    "input_type": "text",
+    "language": "en",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_307",
+    "input": "Dear Customer, Rs 2,500.00 debited from A/C XX4921 on 21-Sep-26 towards UPI-ZOMATO. Available bal: Rs 48,210.50. SBI. [Seq 307]",
+    "input_type": "text",
+    "language": "en",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_308",
+    "input": "Your Amazon order #402-892182-192 for 'Wireless Mouse' has been shipped and will arrive tomorrow by 8 PM. [Seq 308]",
+    "input_type": "text",
+    "language": "en",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_309",
+    "input": "Hey Arun, are we meeting for the project presentation at the college library at 4 PM today? [Seq 309]",
+    "input_type": "text",
+    "language": "en",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_310",
+    "input": "உங்கள் கணக்கிலிருந்து ரூ 500 எடுக்கப்பட்டுள்ளது. மீதி இருப்பு ரூ 12000. பாரத ஸ்டேட் வங்கி. [Seq 310]",
+    "input_type": "text",
+    "language": "ta",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_311",
+    "input": "வணக்கம், நாளை காலை கல்லூரியில் நடைபெறும் கருத்தரங்கிற்கு அனைவரும் தவறாமல் வரவும். [Seq 311]",
+    "input_type": "text",
+    "language": "ta",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_312",
+    "input": "आपके खाते से 1000 रुपये डेबिट हुए हैं। शेष राशि 15,400 रुपये है। बैंक ऑफ बड़ौदा। [Seq 312]",
+    "input_type": "text",
+    "language": "hi",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_313",
+    "input": "कल सुबह 10 बजे मीटिंग है। कृपया सभी प्रोजेक्ट रिपोर्ट साथ लेकर आएं। [Seq 313]",
+    "input_type": "text",
+    "language": "hi",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_314",
+    "input": "Kal college aane se pehle assignment print karva lena. [Seq 314]",
+    "input_type": "text",
+    "language": "mixed",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_315",
+    "input": "Nalaiki seminar ku presentation ready pannitiya? [Seq 315]",
+    "input_type": "text",
+    "language": "mixed",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_316",
+    "input": "https://www.onlinesbi.sbi?ref=316",
+    "input_type": "url",
+    "language": "en",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_317",
+    "input": "https://www.hdfcbank.com?ref=317",
+    "input_type": "url",
+    "language": "en",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_318",
+    "input": "https://cybercrime.gov.in?ref=318",
+    "input_type": "url",
+    "language": "en",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_319",
+    "input": "https://www.google.com?ref=319",
+    "input_type": "url",
+    "language": "en",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_320",
+    "input": "https://github.com?ref=320",
+    "input_type": "url",
+    "language": "en",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_321",
+    "input": "Your OTP for transaction of Rs 499.00 at Swiggy is 482910. Valid for 10 mins. Do NOT share OTP with anyone including bank staff. [Seq 321]",
+    "input_type": "text",
+    "language": "en",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_322",
+    "input": "Dear Customer, Rs 2,500.00 debited from A/C XX4921 on 21-Sep-26 towards UPI-ZOMATO. Available bal: Rs 48,210.50. SBI. [Seq 322]",
+    "input_type": "text",
+    "language": "en",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_323",
+    "input": "Your Amazon order #402-892182-192 for 'Wireless Mouse' has been shipped and will arrive tomorrow by 8 PM. [Seq 323]",
+    "input_type": "text",
+    "language": "en",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_324",
+    "input": "Hey Arun, are we meeting for the project presentation at the college library at 4 PM today? [Seq 324]",
+    "input_type": "text",
+    "language": "en",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_325",
+    "input": "உங்கள் கணக்கிலிருந்து ரூ 500 எடுக்கப்பட்டுள்ளது. மீதி இருப்பு ரூ 12000. பாரத ஸ்டேட் வங்கி. [Seq 325]",
+    "input_type": "text",
+    "language": "ta",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_326",
+    "input": "வணக்கம், நாளை காலை கல்லூரியில் நடைபெறும் கருத்தரங்கிற்கு அனைவரும் தவறாமல் வரவும். [Seq 326]",
+    "input_type": "text",
+    "language": "ta",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_327",
+    "input": "आपके खाते से 1000 रुपये डेबिट हुए हैं। शेष राशि 15,400 रुपये है। बैंक ऑफ बड़ौदा। [Seq 327]",
+    "input_type": "text",
+    "language": "hi",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_328",
+    "input": "कल सुबह 10 बजे मीटिंग है। कृपया सभी प्रोजेक्ट रिपोर्ट साथ लेकर आएं। [Seq 328]",
+    "input_type": "text",
+    "language": "hi",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_329",
+    "input": "Kal college aane se pehle assignment print karva lena. [Seq 329]",
+    "input_type": "text",
+    "language": "mixed",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_330",
+    "input": "Nalaiki seminar ku presentation ready pannitiya? [Seq 330]",
+    "input_type": "text",
+    "language": "mixed",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_331",
+    "input": "https://www.onlinesbi.sbi?ref=331",
+    "input_type": "url",
+    "language": "en",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_332",
+    "input": "https://www.hdfcbank.com?ref=332",
+    "input_type": "url",
+    "language": "en",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_333",
+    "input": "https://cybercrime.gov.in?ref=333",
+    "input_type": "url",
+    "language": "en",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_334",
+    "input": "https://www.google.com?ref=334",
+    "input_type": "url",
+    "language": "en",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_335",
+    "input": "https://github.com?ref=335",
+    "input_type": "url",
+    "language": "en",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_336",
+    "input": "Your OTP for transaction of Rs 499.00 at Swiggy is 482910. Valid for 10 mins. Do NOT share OTP with anyone including bank staff. [Seq 336]",
+    "input_type": "text",
+    "language": "en",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_337",
+    "input": "Dear Customer, Rs 2,500.00 debited from A/C XX4921 on 21-Sep-26 towards UPI-ZOMATO. Available bal: Rs 48,210.50. SBI. [Seq 337]",
+    "input_type": "text",
+    "language": "en",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_338",
+    "input": "Your Amazon order #402-892182-192 for 'Wireless Mouse' has been shipped and will arrive tomorrow by 8 PM. [Seq 338]",
+    "input_type": "text",
+    "language": "en",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_339",
+    "input": "Hey Arun, are we meeting for the project presentation at the college library at 4 PM today? [Seq 339]",
+    "input_type": "text",
+    "language": "en",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_340",
+    "input": "உங்கள் கணக்கிலிருந்து ரூ 500 எடுக்கப்பட்டுள்ளது. மீதி இருப்பு ரூ 12000. பாரத ஸ்டேட் வங்கி. [Seq 340]",
+    "input_type": "text",
+    "language": "ta",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_341",
+    "input": "வணக்கம், நாளை காலை கல்லூரியில் நடைபெறும் கருத்தரங்கிற்கு அனைவரும் தவறாமல் வரவும். [Seq 341]",
+    "input_type": "text",
+    "language": "ta",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_342",
+    "input": "आपके खाते से 1000 रुपये डेबिट हुए हैं। शेष राशि 15,400 रुपये है। बैंक ऑफ बड़ौदा। [Seq 342]",
+    "input_type": "text",
+    "language": "hi",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_343",
+    "input": "कल सुबह 10 बजे मीटिंग है। कृपया सभी प्रोजेक्ट रिपोर्ट साथ लेकर आएं। [Seq 343]",
+    "input_type": "text",
+    "language": "hi",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_344",
+    "input": "Kal college aane se pehle assignment print karva lena. [Seq 344]",
+    "input_type": "text",
+    "language": "mixed",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_345",
+    "input": "Nalaiki seminar ku presentation ready pannitiya? [Seq 345]",
+    "input_type": "text",
+    "language": "mixed",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_346",
+    "input": "https://www.onlinesbi.sbi?ref=346",
+    "input_type": "url",
+    "language": "en",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_347",
+    "input": "https://www.hdfcbank.com?ref=347",
+    "input_type": "url",
+    "language": "en",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_348",
+    "input": "https://cybercrime.gov.in?ref=348",
+    "input_type": "url",
+    "language": "en",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_349",
+    "input": "https://www.google.com?ref=349",
+    "input_type": "url",
+    "language": "en",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  },
+  {
+    "id": "SAFE_350",
+    "input": "https://github.com?ref=350",
+    "input_type": "url",
+    "language": "en",
+    "label": "safe",
+    "scam_type": "Clean",
+    "source": "synthetic"
+  }
+]

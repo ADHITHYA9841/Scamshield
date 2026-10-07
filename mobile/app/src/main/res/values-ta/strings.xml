@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">ஸ்கேம்ஷீல்ட்</string>
+    <string name="tagline">கிளிக் செய்வதற்கு முன் சரிபார்க்கவும்</string>
+    
+    <!-- Home Actions -->
+    <string name="analyze_text">உரையை பகுப்பாய்வு செய்</string>
+    <string name="paste_text_hint">சந்தேகத்திற்கிடமான செய்தி அல்லது எஸ்எம்எஸ் ஒட்டவும்...</string>
+    <string name="analyze_link">இணைப்பை பகுப்பாய்வு செய்</string>
+    <string name="scan_qr">QR குறியீட்டை ஸ்கேன் செய்</string>
+    <string name="upload_file">கோப்பை பதிவேற்று</string>
+    <string name="analyze_screenshot">திரைப்படத்தை பகுப்பாய்வு செய்</string>
+    <string name="analyze_voice">குரல் பகுப்பாய்வு</string>
+    <string name="check_phone">தொலைபேசி எண் சரிபார்</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">முகப்பு</string>
+    <string name="nav_history">வரலாறு</string>
+    <string name="nav_stats">புள்ளிவிவரம்</string>
+    <string name="nav_settings">அமைப்புகள்</string>
+
+    <!-- Results -->
+    <string name="risk_score">ஆபத்து மதிப்பீடு</string>
+    <string name="verdict_safe">பாதுகாப்பானது</string>
+    <string name="verdict_suspicious">சந்தேகத்திற்கிடமானது</string>
+    <string name="verdict_scam">மோசடி</string>
+    <string name="evidence_title">ஆதாரங்கள்</string>
+    <string name="recommended_actions">பரிந்துரைக்கப்பட்ட நடவடிக்கைகள்</string>
+    <string name="i_already_interacted">நான் ஏற்கனவே தொடர்பு கொண்டேன்</string>
+    <string name="download_pdf">PDF அறிக்கையைப் பதிவிறக்கு</string>
+</resources>

@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ScamShield - Settings</title>
+  <style>
+    :root {
+      --bg: #0b0f19;
+      --card: #151d30;
+      --border: #24324d;
+      --text: #f8fafc;
+      --text-muted: #94a3b8;
+      --accent: #38bdf8;
+      --accent-blue: #2563eb;
+      --safe: #10b981;
+      --danger: #ef4444;
+    }
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      padding: 30px;
+      max-width: 650px;
+      margin: 0 auto;
+    }
+    h1 {
+      font-size: 24px;
+      margin-bottom: 6px;
+      background: linear-gradient(135deg, #38bdf8, #818cf8);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+    .subtitle {
+      color: var(--text-muted);
+      font-size: 13px;
+      margin-bottom: 24px;
+    }
+    .card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 20px;
+      margin-bottom: 20px;
+    }
+    h2 {
+      font-size: 16px;
+      margin-bottom: 12px;
+      color: var(--accent);
+    }
+    label {
+      display: block;
+      font-size: 12px;
+      font-weight: 600;
+      margin-bottom: 6px;
+      color: var(--text-muted);
+    }
+    input[type="text"] {
+      width: 100%;
+      background: #080c14;
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      color: var(--text);
+      padding: 10px 14px;
+      font-size: 14px;
+      font-family: monospace;
+      box-sizing: border-box;
+      margin-bottom: 12px;
+    }
+    input[type="text"]:focus {
+      outline: none;
+      border-color: var(--accent);
+    }
+    .btn-row {
+      display: flex;
+      gap: 10px;
+    }
+    button {
+      padding: 10px 18px;
+      border-radius: 8px;
+      font-size: 13px;
+      font-weight: 600;
+      cursor: pointer;
+      border: none;
+      transition: all 0.2s;
+    }
+    .btn-save {
+      background: var(--accent-blue);
+      color: #fff;
+    }
+    .btn-save:hover { background: #1d4ed8; }
+    .btn-test {
+      background: transparent;
+      border: 1px solid var(--border);
+      color: var(--text);
+    }
+    .btn-test:hover { background: #1e2942; }
+    .status-box {
+      margin-top: 12px;
+      font-size: 12px;
+      padding: 8px 12px;
+      border-radius: 6px;
+      display: none;
+    }
+    .status-ok { background: rgba(16, 185, 129, 0.15); color: #34d399; border: 1px solid rgba(16, 185, 129, 0.3); }
+    .status-err { background: rgba(239, 68, 68, 0.15); color: #f87171; border: 1px solid rgba(239, 68, 68, 0.3); }
+    
+    .section-desc, .handoff-desc {
+      font-size: 12px;
+      color: var(--text-muted);
+      line-height: 1.5;
+      margin-bottom: 14px;
+    }
+  </style>
+</head>
+<body>
+  <h1>🛡️ ScamShield Settings</h1>
+  <p class="subtitle">Configure your self-hosted detection backend.</p>
+
+  <!-- Backend Configuration -->
+  <div class="card">
+    <h2>1. Self-Hosted Backend Connection</h2>
+    <label for="backendUrl">BACKEND API URL</label>
+    <input type="text" id="backendUrl" placeholder="http://127.0.0.1:8000">
+    <div class="btn-row">
+      <button id="btnSave" class="btn-save">Save Settings</button>
+      <button id="btnTest" class="btn-test">Test Connection</button>
+    </div>
+    <div id="statusBox" class="status-box"></div>
+  </div>
+
+  <!-- Download Protection Shield -->
+  <div class="card">
+    <h2>2. Automatic Download Shield</h2>
+    <p class="section-desc">
+      Inspects all browser file downloads in real-time. Detects disguised double extensions (e.g. <code>.pdf.exe</code>), untrusted APKs, SSRF download links, and spoofed bank updates before you open them.
+    </p>
+    <div style="display:flex; flex-direction:column; gap:10px; font-size:13px;">
+      <label style="display:flex; align-items:center; gap:8px; cursor:pointer;">
+        <input type="checkbox" id="chkAutoScanDownloads" checked>
+        <span><b>Enable real-time download scanning</b> (inspects all incoming files)</span>
+      </label>
+      <label style="display:flex; align-items:center; gap:8px; cursor:pointer;">
+        <input type="checkbox" id="chkAutoPauseThreats" checked>
+        <span><b>Automatically pause suspicious downloads</b> (prevents malicious completion)</span>
+      </label>
+      <label style="display:flex; align-items:center; gap:8px; cursor:pointer;">
+        <input type="checkbox" id="chkShowNotifications" checked>
+        <span><b>Show interactive desktop alert notifications</b> (with Cancel & Delete actions)</span>
+      </label>
+    </div>
+  </div>
+
+  <script src="options.js"></script>
+</body>
+</html>

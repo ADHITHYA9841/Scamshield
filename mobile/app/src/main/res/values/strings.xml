@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">ScamShield</string>
+    <string name="tagline">Check Before You Click</string>
+    
+    <!-- Home Actions -->
+    <string name="analyze_text">Analyze Text</string>
+    <string name="paste_text_hint">Paste suspicious message, SMS, or email...</string>
+    <string name="analyze_link">Analyze Link</string>
+    <string name="scan_qr">Scan QR Code</string>
+    <string name="upload_file">Scan File</string>
+    <string name="analyze_screenshot">Analyze Screenshot</string>
+    <string name="analyze_voice">Voice Analysis</string>
+    <string name="check_phone">Check Phone</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_history">History</string>
+    <string name="nav_stats">Statistics</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Results -->
+    <string name="risk_score">Risk Score</string>
+    <string name="verdict_safe">SAFE</string>
+    <string name="verdict_suspicious">SUSPICIOUS</string>
+    <string name="verdict_scam">SCAM</string>
+    <string name="evidence_title">Forensic Evidence</string>
+    <string name="recommended_actions">Recommended Actions</string>
+    <string name="i_already_interacted">I already clicked / interacted</string>
+    <string name="download_pdf">Generate PDF Report</string>
+</resources>

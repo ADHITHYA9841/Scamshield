@@ -1,0 +1,44 @@
+version: '3.8'
+
+services:
+  scamshield-backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: scamshield-backend
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    environment:
+      - DATABASE_URL=postgresql://scamshield:scamshield_secure_pass@db:5432/scamshield
+      - LLM_PROVIDER=mock
+      - AUTH_ENABLED=false
+      - CORS_ORIGINS=["*"]
+      - MAX_UPLOAD_SIZE_MB=10
+    depends_on:
+      db:
+        condition: service_healthy
+    volumes:
+      - scamshield_uploads:/app/tmp_uploads
+
+  db:
+    image: postgres:15-alpine
+    container_name: scamshield-db
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: scamshield
+      POSTGRES_PASSWORD: scamshield_secure_pass
+      POSTGRES_DB: scamshield
+    ports:
+      - "5432:5432"
+    volumes:
+      - scamshield_pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U scamshield -d scamshield"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+volumes:
+  scamshield_pgdata:
+  scamshield_uploads:

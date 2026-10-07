@@ -1,0 +1,30 @@
+# Environment files containing secrets & API keys
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.coverage
+htmlcov/
+tmp_uploads/
+scamshield.db
+
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+
+# Node
+node_modules/
+dist/
+build/
+.DS_Store

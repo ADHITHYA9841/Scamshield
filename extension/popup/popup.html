@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ScamShield Inspector</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <div class="app-container">
+    <!-- Header -->
+    <header class="header">
+      <div class="brand">
+        <div class="brand-icon">🛡️</div>
+        <div class="brand-text">
+          <h1>ScamShield</h1>
+          <span class="tagline">Check Before You Click</span>
+        </div>
+      </div>
+      <a href="../options/options.html" target="_blank" class="settings-btn" title="Settings & Mobile Handoff">⚙️</a>
+    </header>
+
+    <!-- Navigation Tabs -->
+    <div class="tabs-nav">
+      <button id="tabBtnDownload" class="tab-btn active">
+        <span>📥 Download Shield</span>
+        <span id="dlTabDot" class="tab-dot active-dot"></span>
+      </button>
+      <button id="tabBtnPage" class="tab-btn">
+        <span>🌐 Web Shield</span>
+      </button>
+    </div>
+
+    <!-- ============================================================= -->
+    <!-- VIEW 1: DOWNLOAD SHIELD (AUTOMATIC REAL-TIME SCANNER)          -->
+    <!-- ============================================================= -->
+    <div id="downloadShieldView" class="view-content">
+      <!-- Status Banner -->
+      <div class="shield-status-bar">
+        <span class="status-indicator-dot"></span>
+        <span class="shield-status-text">Automatic Download Protection: <b>Active</b></span>
+      </div>
+
+      <!-- Active Scanning Indicator (Shown during in-flight download scan) -->
+      <div id="dlScanningIndicator" class="scanning-card hidden">
+        <div class="radar-spinner"></div>
+        <div class="scanning-info">
+          <div class="scanning-title">Scanning In-Flight Download...</div>
+          <div id="dlScanningFilename" class="scanning-filename">downloading_file...</div>
+          <div class="scanning-sub">Querying VirusTotal 70+ Antivirus Engines & Neural Rules</div>
+        </div>
+      </div>
+
+      <!-- Empty State (when no download has occurred yet) -->
+      <div id="dlEmptyState" class="empty-state hidden">
+        <div class="empty-icon">📥</div>
+        <div class="empty-title">Ready for File Downloads</div>
+        <p class="empty-desc">
+          Any file you download in Chrome is <b>automatically intercepted</b>, scanned against 70+ antivirus engines, and evaluated before execution.
+        </p>
+        <div class="empty-hint">Try downloading any file to see real-time scanning in action.</div>
+      </div>
+
+      <!-- Latest Scanned Download Result Card -->
+      <div id="dlResultCard" class="result-card hidden">
+        <!-- File Info Bar -->
+        <div class="file-info-bar">
+          <div class="file-icon-badge" id="dlFileIcon">📄</div>
+          <div class="file-meta">
+            <div id="dlFilename" class="file-name" title="">filename.ext</div>
+            <div class="file-sub-meta">
+              <span id="dlFileSize" class="file-size">--</span> &bull;
+              <span id="dlSourceDomain" class="file-domain">domain.com</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Hero Score & Verdict Header -->
+        <div class="result-header">
+          <div class="score-container">
+            <div id="dlScoreCircle" class="score-circle">
+              <span id="dlScoreVal" class="score-value">0</span>
+              <span class="score-total">/100</span>
+            </div>
+          </div>
+          <div class="verdict-container">
+            <div id="dlVerdictBadge" class="verdict-badge">SAFE</div>
+            <div id="dlScamCategory" class="scam-category">Clean Download</div>
+            <div id="dlIntelBadge" class="intel-badge">🛡️ VirusTotal Clean</div>
+          </div>
+        </div>
+
+        <!-- VirusTotal Multi-Vendor Threat Intelligence Box -->
+        <div id="dlVtBox" class="vt-box">
+          <div class="vt-title">VIRUSTOTAL MULTI-ENGINE REPUTATION</div>
+          <div class="vt-grid">
+            <div class="vt-metric">
+              <div class="vt-val" id="dlVtTotalEngines">70+</div>
+              <div class="vt-lbl">Engines Scanned</div>
+            </div>
+            <div class="vt-metric">
+              <div class="vt-val text-danger" id="dlVtMalicious">0</div>
+              <div class="vt-lbl">Threat Flags</div>
+            </div>
+            <div class="vt-metric">
+              <div class="vt-val text-safe" id="dlVtClean">64+</div>
+              <div class="vt-lbl">Clean Engines</div>
+            </div>
+            <div class="vt-metric">
+              <div class="vt-val" id="dlVtReputation">+35</div>
+              <div class="vt-lbl">Reputation</div>
+            </div>
+          </div>
+          <div id="dlVtFlaggingVendors" class="vt-vendors-alert hidden"></div>
+        </div>
+
+        <!-- Forensic Reasons & Findings -->
+        <div class="evidence-section">
+          <div class="section-title">DETECTION FINDINGS</div>
+          <div id="dlReasonsList" class="evidence-list"></div>
+        </div>
+
+        <!-- Action Buttons (Cancel / Resume) -->
+        <div id="dlActionButtons" class="dl-actions-row">
+          <button id="btnCancelDownload" class="btn btn-danger-action">
+            <span>🚫 Cancel & Delete</span>
+          </button>
+          <button id="btnResumeDownload" class="btn btn-keep-action">
+            <span>⚠️ Keep / Resume</span>
+          </button>
+        </div>
+      </div>
+
+      <!-- Recent Scanned Downloads History List -->
+      <div id="dlRecentSection" class="recent-downloads-section hidden">
+        <div class="recent-title">RECENT SCANNED DOWNLOADS</div>
+        <div id="dlRecentList" class="recent-downloads-list"></div>
+      </div>
+    </div>
+
+    <!-- ============================================================= -->
+    <!-- VIEW 2: ACTIVE WEBPAGE & URL SHIELD                           -->
+    <!-- ============================================================= -->
+    <div id="pageShieldView" class="view-content hidden">
+      <!-- Current Tab Details -->
+      <div class="tab-card">
+        <div class="tab-label">TARGET URL</div>
+        <div id="targetUrl" class="tab-url">Detecting active page...</div>
+      </div>
+
+      <!-- Quick Analysis Action Buttons -->
+      <div class="action-grid">
+        <button id="btnAnalyzeUrl" class="btn btn-secondary">
+          <span class="btn-icon">🔗</span>
+          <span>Analyze URL</span>
+        </button>
+        <button id="btnAnalyzePage" class="btn btn-primary">
+          <span class="btn-icon">⚡</span>
+          <span>Analyze Page</span>
+        </button>
+      </div>
+
+      <!-- Loading State -->
+      <div id="loadingState" class="loading-state hidden">
+        <div class="spinner"></div>
+        <div class="loading-text">Running multi-engine neural forensic scan...</div>
+      </div>
+
+      <!-- Result Card -->
+      <div id="resultCard" class="result-card hidden">
+        <div class="result-header">
+          <div class="score-container">
+            <div id="scoreCircle" class="score-circle">
+              <span id="scoreVal" class="score-value">0</span>
+              <span class="score-total">/100</span>
+            </div>
+          </div>
+          <div class="verdict-container">
+            <div id="verdictBadge" class="verdict-badge">SAFE</div>
+            <div id="scamCategory" class="scam-category">Clean / Legitimate</div>
+            <div id="intelBadge" class="intel-badge" style="display:none;"></div>
+          </div>
+        </div>
+
+        <p id="explanation" class="result-explanation"></p>
+
+        <!-- Forensic Evidence Highlights -->
+        <div class="evidence-section">
+          <div class="section-title">FORENSIC EVIDENCE (<span id="evidenceCount">0</span>)</div>
+          <div id="evidenceList" class="evidence-list"></div>
+        </div>
+
+        <!-- Action Footer -->
+        <div class="result-footer">
+          <button id="btnDownloadReport" class="btn btn-outline">📄 Download PDF Report</button>
+        </div>
+      </div>
+
+      <!-- Error State -->
+      <div id="errorCard" class="error-card hidden">
+        <div class="error-icon">⚠️</div>
+        <div id="errorMessage" class="error-text">Cannot connect to ScamShield backend.</div>
+        <a href="../options/options.html" target="_blank" class="error-link">Configure Backend Endpoint</a>
+      </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="footer">
+      <span>Self-Hosted &bull; Open Source &bull; Zero Telemetry</span>
+    </footer>
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+</html>

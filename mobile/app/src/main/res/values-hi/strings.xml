@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">स्कैमशील्ड</string>
+    <string name="tagline">क्लिक करने से पहले जांचें</string>
+    
+    <!-- Home Actions -->
+    <string name="analyze_text">संदेश की जांच करें</string>
+    <string name="paste_text_hint">संदिग्ध संदेश, एसएमएस या ईमेल यहां पेस्ट करें...</string>
+    <string name="analyze_link">लिंक की जांच करें</string>
+    <string name="scan_qr">क्यूआर कोड स्कैन करें</string>
+    <string name="upload_file">फ़ाइल स्कैन करें</string>
+    <string name="analyze_screenshot">स्क्रीनशॉट की जांच करें</string>
+    <string name="analyze_voice">आवाज़ की जांच करें</string>
+    <string name="check_phone">फ़ोन नंबर जांचें</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">होम</string>
+    <string name="nav_history">इतिहास</string>
+    <string name="nav_stats">आंकड़े</string>
+    <string name="nav_settings">सेटिंग्स</string>
+
+    <!-- Results -->
+    <string name="risk_score">जोखिम स्कोर</string>
+    <string name="verdict_safe">सुरक्षित</string>
+    <string name="verdict_suspicious">संदिग्ध</string>
+    <string name="verdict_scam">धोखाधड़ी (स्कैम)</string>
+    <string name="evidence_title">फोरेंसिक साक्ष्य</string>
+    <string name="recommended_actions">अनुशंसित सुरक्षा कदम</string>
+    <string name="i_already_interacted">मैंने पहले ही क्लिक कर दिया है</string>
+    <string name="download_pdf">पीडीएफ रिपोर्ट डाउनलोड करें</string>
+</resources>
